@@ -1,0 +1,17 @@
+.country{
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid goldenrod;
+    border-radius: 20px;
+}
+.list-item{
+    color: red;
+}
+.cca3{
+    color: black;
+}
+
+.visited{
+    background-color: hotpink;
+    color: black;
+}
